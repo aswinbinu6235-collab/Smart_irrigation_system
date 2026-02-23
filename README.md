@@ -174,7 +174,7 @@ void loop() {
 
   delay(1000);
 }
-
+```
 ---
 
 ## 👨‍🎓 Project Details
