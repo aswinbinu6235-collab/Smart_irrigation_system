@@ -82,9 +82,16 @@ With these improvements, the system can be scaled for large agricultural applica
 - Embedded C/C++
 
 ---
-## Simulated Circuit
+##  Output Screenshots
 
-![Circuit Diagram](circuit_screenshot.png)
+### Soil Moisture Low – Pump ON
+![Output 1](images/output1.png)
+
+### Soil Moisture High – Pump OFF
+![Output 2](images/output2.png)
+
+### Circuit Simulation
+![Circuit](images/circuit_screenshot.png)
 ##  Working Principle
 1. Soil moisture sensor reads moisture level.
 2. Arduino compares value with predefined threshold.
