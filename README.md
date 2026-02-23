@@ -84,10 +84,10 @@ With these improvements, the system can be scaled for large agricultural applica
 ---
 ##  Output Screenshots
 
-### Soil Moisture Low – Pump ON
+### Soil Moisture Low – Pump OFF
 ![Output 1](output1.png)
 
-### Soil Moisture High – Pump OFF
+### Soil Moisture High – Pump ON
 ![Output 2](output2.png)
 
 ### Circuit Simulation
