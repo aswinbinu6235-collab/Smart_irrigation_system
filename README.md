@@ -1,23 +1,23 @@
-# 🌱 Smart Irrigation System Using Soil Moisture Sensor
+#  Smart Irrigation System Using Soil Moisture Sensor
 
-## 📌 Project Title
+##  Project Title
 Smart Irrigation System to Optimize Water Usage in Agricultural Fields
 
 ---
 
-## 🎯 Aim
+##  Aim
 To design and simulate a Smart Irrigation System that monitors soil moisture levels and automatically controls irrigation to optimize water usage and improve agricultural efficiency.
 
 ---
 
-## ❗ Problem Statement
+##  Problem Statement
 Traditional irrigation systems often operate on fixed schedules without considering actual soil moisture conditions. This leads to overwatering, underwatering, water wastage, and reduced crop productivity.
 
 There is a need for an automated system that monitors soil moisture in real-time and activates irrigation only when required.
 
 ---
 
-## 💡 Proposed Solution
+##  Proposed Solution
 The Smart Irrigation System uses:
 - A soil moisture sensor to monitor soil condition
 - An Arduino UNO to process data
@@ -31,7 +31,7 @@ This reduces water wastage and ensures optimal crop growth.
 
 ---
 
-## 🔍 Scope of the Solution
+##  Scope of the Solution
 ✔ Real-time soil moisture monitoring  
 ✔ Automatic irrigation control  
 ✔ Water usage optimization  
@@ -45,7 +45,7 @@ This reduces water wastage and ensures optimal crop growth.
 
 ## 🛠 Required Components
 
-### 🔹 Hardware (Simulated in TinkerCAD)
+###  Hardware (Simulated in TinkerCAD)
 - Arduino UNO
 - Soil Moisture Sensor
 - Relay Module
@@ -54,7 +54,7 @@ This reduces water wastage and ensures optimal crop growth.
 - Jumper Wires
 - Power Supply
 
-### 🔹 Software
+###  Software
 - TinkerCAD (Circuit Simulation)
 - Arduino IDE
 - Embedded C/C++
@@ -63,7 +63,7 @@ This reduces water wastage and ensures optimal crop growth.
 ## Simulated Circuit
 
 ![Circuit Diagram](circuit_screenshot.png)
-## ⚙ Working Principle
+##  Working Principle
 1. Soil moisture sensor reads moisture level.
 2. Arduino compares value with predefined threshold.
 3. If soil is dry → Pump turns ON.
@@ -72,7 +72,7 @@ This reduces water wastage and ensures optimal crop growth.
 
 ---
 
-## 💻 Arduino Code
+##  Arduino Code
 
 ```cpp
 #include <LiquidCrystal.h>
