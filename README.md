@@ -180,8 +180,8 @@ void loop() {
 ## Project Details
 
 **Project Title:** Smart Irrigation System to Optimize Water Usage in Agricultural Fields
-**Developed By:** ASWIN BINU, ADLIN BENNY, IVAN CALTIN, ADRIEN SAMUEL 
-**Register Number:** 2460610, 2460604,  2460620, 2460605
+**Developed By:** ASWIN BINU,ADLIN BENNY,IVAN CALTIN,ADRIEN SAMUEL 
+**Register Number:** 2460610,2460604,2460620,2460605
 **Department:** ECE 
 **College:** CHRIST UNIVERSITY  
 **Academic Year:** 2025–2026  
