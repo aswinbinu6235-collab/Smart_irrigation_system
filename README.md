@@ -22,9 +22,9 @@ The proposed smart irrigation system continuously monitors the moisture level of
 
 The Arduino compares the sensor value with a predefined threshold value. Based on this comparison:
 
--If the soil moisture level is below the threshold (indicating dry soil), the Arduino activates the water pump through the L293D motor driver. The red LED turns ON, the buzzer produces an alert sound, and the LCD displays that the pump is ON.
+- If the soil moisture level is below the threshold (indicating dry soil), the Arduino activates the water pump through the L293D motor driver. The red LED turns ON, the buzzer produces an alert sound, and the LCD displays that the pump is ON.
 
--If the soil moisture level is above the threshold (indicating sufficient moisture), the Arduino turns OFF the water pump. The green LED turns ON, the buzzer remains OFF, and the LCD displays that the pump is OFF.
+- If the soil moisture level is above the threshold (indicating sufficient moisture), the Arduino turns OFF the water pump. The green LED turns ON, the buzzer remains OFF, and the LCD displays that the pump is OFF.
 
 This automation ensures that irrigation occurs only when necessary, thereby conserving water and maintaining optimal soil conditions for plant growth.
 
@@ -35,18 +35,18 @@ The smart irrigation system can be implemented in:
 
 Small and medium-scale agricultural fields
 
--Greenhouses
--Home gardens
--Nurseries and plant research centers
+- Greenhouses
+- Home gardens
+- Nurseries and plant research centers
 
 The system can be further enhanced by:
 
--Integrating WiFi or GSM modules for remote monitoring
--Connecting to cloud platforms for data logging
--Adding temperature and humidity sensors
--Implementing multiple moisture sensors for different field zones
--Using solar power for energy-efficient operation
--Developing a mobile application for real-time monitoring and control
+- Integrating WiFi or GSM modules for remote monitoring
+- Connecting to cloud platforms for data logging
+- Adding temperature and humidity sensors
+- Implementing multiple moisture sensors for different field zones
+- Using solar power for energy-efficient operation
+- Developing a mobile application for real-time monitoring and control
 
 With these improvements, the system can be scaled for large agricultural applications and smart farming solutions. 
 
