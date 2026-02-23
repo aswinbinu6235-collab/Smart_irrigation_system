@@ -176,9 +176,8 @@ void loop() {
 }
 
 ---
+**##  Project Details**
 ---
-##  Project Details
-
 **Project Title:** Smart Irrigation System to Optimize Water Usage in Agricultural Fields
 **Developed By:** ASWIN BINU  
 **Register Number:** 2460610 
