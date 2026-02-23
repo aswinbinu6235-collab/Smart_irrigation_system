@@ -60,7 +60,9 @@ This reduces water wastage and ensures optimal crop growth.
 - Embedded C/C++
 
 ---
+## Simulated Circuit
 
+![Circuit Diagram](circuit_screenshot.png)
 ## ⚙ Working Principle
 1. Soil moisture sensor reads moisture level.
 2. Arduino compares value with predefined threshold.
