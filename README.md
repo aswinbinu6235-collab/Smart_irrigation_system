@@ -176,14 +176,15 @@ void loop() {
 }
 
 ---
-**##  Project Details**
----
-**Project Title:** Smart Irrigation System to Optimize Water Usage in Agricultural Fields
-**Developed By:** ASWIN BINU  
-**Register Number:** 2460610 
-**Department:** ECE  
-**College:** CHRIST UNIVERSITY  
+
+## 👨‍🎓 Project Details
+
+**Project Title:** Smart Irrigation System  
+**Developed By:** Your Full Name  
+**Register Number:** Your Register Number  
+**Department:** Your Department Name  
+**College:** Your College Name  
 **Academic Year:** 2025–2026  
-**Course Name:** AIIOT
+**Course Name:** (If required)
 
 ---
