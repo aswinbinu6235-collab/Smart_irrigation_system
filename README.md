@@ -85,13 +85,13 @@ With these improvements, the system can be scaled for large agricultural applica
 ##  Output Screenshots
 
 ### Soil Moisture Low – Pump ON
-![Output 1](images/output1.png)
+![Output 1](output1.png)
 
 ### Soil Moisture High – Pump OFF
-![Output 2](images/output2.png)
+![Output 2](output2.png)
 
 ### Circuit Simulation
-![Circuit](images/circuit_screenshot.png)
+![Circuit](circuit_screenshot.png)
 ##  Working Principle
 1. Soil moisture sensor reads moisture level.
 2. Arduino compares value with predefined threshold.
