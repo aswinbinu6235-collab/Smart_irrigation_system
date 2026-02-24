@@ -184,6 +184,10 @@ void loop() {
 ```
 ---
 
+📄 Full Project Report: [Download Here](project_report.pdf)
+
+---
+
 ## Project Details
 
 **Project Title:** Smart Irrigation System to Optimize Water Usage in Agricultural Fields
